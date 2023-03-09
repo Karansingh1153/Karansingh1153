@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karansingh1153&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh1153" /> </p>
 
-- 🔭 I’m currently working on **QR based Attendance Applicaton**
+- 🔭 I’m currently working on **Event Managament System**
 
-- 🌱 I’m currently learning **Kotlin,Nodejs**
+- 🌱 I’m currently learning **Reactjs **
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
