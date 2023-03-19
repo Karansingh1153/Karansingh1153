@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbhuva97&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh1153" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karansingh1153&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh1153" /> </p>
 
 - 🔭 I’m currently working on **Event Magament System**
 
