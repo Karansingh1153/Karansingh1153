@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Event Magament System**
 
-- 🌱 I’m currently learning **Next.js & React.js.js**
+- 🌱 I’m currently learning **Next.js & React.js**
 
 - 📫 How to reach me **Chauhankaran197@gmail.com**
 
