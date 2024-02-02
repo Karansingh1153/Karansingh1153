@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with **Injala India**
 
-- 🌱 I’m currently learning **Business Plannning Scrum **
+- 🌱 I’m currently learning **User stories,Project Management and Functional Analysis**
 
 - 📫 How to reach me **Chauhankaran197@gmail.com**
 
